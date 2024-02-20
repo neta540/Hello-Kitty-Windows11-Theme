@@ -52,6 +52,10 @@ Patching may take a few minutes. Once the patching is complete, restart your com
 
 ![Reboot confirmation](images/2024-02-19-19-45-40.png)
 
+Finally apply the wallpaper 😀
+
+![Wallpaper](Wallpaper.png)
+
 ### Optional tweaks
 
 To make file explorer minimalistic, I use the following tweaks:

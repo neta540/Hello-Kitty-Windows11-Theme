@@ -69,3 +69,7 @@ To make file explorer minimalistic, I use the following tweaks:
 - Hide OneDrive From File Explorer
 
 To apply these tweaks, run the registry files `Remove Home from navigation pane in File Explorer.reg`, `Remove Gallery from navigation pane in File Explorer for all users.reg` and `Hide OneDrive From File Explorer.reg` and merge them. Restart your computer to apply the changes.
+
+I also like to use the following Google Chrome theme, since it looks cute and matches the theme of the desktop. You can install it from the following link:
+
+[Japanischer Sakura Kirschbaum Pink](https://chromewebstore.google.com/detail/japanischer-sakura-kirsch/ndknfjinkbkloiiokepfaokmhehgflok)

@@ -32,11 +32,11 @@ Run UltraUXThemePatcher again and verify that the files are `patched`. If they a
 
 ![Patched status](images/2024-02-19-19-30-20.png)
 
-Extract the contents the cakeOS 2.0 theme to `C:\Windows\Resources\Themes`. The folder `cakeOS 2.0` should be in the same directory as `Aero`. The files needed to be extracted are shown in the image below:
+Move the contents the cakeOS 2.0 theme to `C:\Windows\Resources\Themes`. The folder `cakeOS` should be in the same directory as `Aero`. The files needed to be moved are shown in the image below:
 
 ![CakeOS Files](images/2024-02-19-19-33-35.png)
 
-When the files are extracted, the folder `C:\Windows\Resources\Themes` should look like this:
+When the files are moved, the folder `C:\Windows\Resources\Themes` should look like this:
 
 ![Themes folder](images/2024-02-19-19-35-48.png)
 

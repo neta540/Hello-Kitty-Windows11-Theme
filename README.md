@@ -1,5 +1,9 @@
 # How to make a cute desktop with Hello Kitty
 
+<center>
+  <img src="./images/result.png">
+</center>
+
 Requirements:
 
 - Hello Kitty wallpaper

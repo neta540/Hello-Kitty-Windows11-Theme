@@ -46,7 +46,7 @@ Double click on the file `cakeOS - Day.theme` to apply the theme. As a result, w
 
 ### Icons
 
-Extract 7tsp_gui_2019_edition_by_devillnside_ddb5026 to a folder. Run the file `7tsp_gui_2019_edition_by_devillnside_ddb5026.exe` as administrator. Click on `Add a Custom Pack` and select the file `7tsp Cake OS Red` and click on `Start Patching`.
+Run `7tsp GUI v0.6(2019).exe` as administrator. Click on `Add a Custom Pack` and select the file `7tsp Cake OS Red` and click on `Start Patching`.
 
 ![7tsp1](images/2024-02-19-19-41-24.png)
 
